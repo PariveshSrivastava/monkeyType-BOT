@@ -8,7 +8,7 @@ i = 3
 print("starting in "+str(i)+" seconds")
 time.sleep(i)
 start_time = time.time()
-
+#hihi this is uruj
 # first line top left and right bottom pixel
 def firstCall():
     x1, y1, x2, y2 = 180, 435, 1775, 485
