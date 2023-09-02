@@ -3,7 +3,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 from PIL import ImageGrab
 import time
 import pyautogui as pag
-
+# hi lolol
 i = 3
 print("starting in "+str(i)+" seconds")
 time.sleep(i)
